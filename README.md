@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## 1: Real time chat App
 ## 2: Multiplayer real time tic tac toe
 ## 3: Nike website clone
-## 3: A simple poll to compare things
+## 4: A simple poll to compare things
 
 
 ## This project is developed using React Js, Node Js, Socket Io, Express and MongoDB.
