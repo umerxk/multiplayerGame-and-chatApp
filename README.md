@@ -1,11 +1,14 @@
 # Getting Started with MERN stack project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+**The main purpose of this project was to make real time game & chat logic, not the folder structure and files management.**
 
 In the project root directory, you can use below command to start both FE and HTTP:
 
+
+## Available Scripts
+
+### `npm install`
 ### `npm run dev`
 
 Runs the app in the development mode.\
