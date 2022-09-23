@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project root directory, you can run to start both FE and HTTP:
+In the project root directory, you can use below command to start both FE and HTTP:
 
 ### `npm run dev`
 
@@ -14,9 +14,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## This Repo includes
 
-**1: Real time chat App**
-**2: Multiplayer real time tic tac toe**
-**3: Nike website clone**
+## 1: Real time chat App
+## 2: Multiplayer real time tic tac toe
+## 3: Nike website clone
 
 ## This project is developed using React Js, Node Js, Socket Io, Express and MongoDB.
  
